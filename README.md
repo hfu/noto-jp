@@ -3,6 +3,9 @@ Noto Sans CJK JP and Noto Serif CJK JP as a range of glyphs rendered as SDFs (si
 
 This package is part of the noto project.  Visit google.com/get/noto for more information.
 
+## Demo
+https://hfu.github.io/anno-vt/
+
 ## License of Noto Fonts
 ```
 This Font Software is licensed under the SIL Open Font License,
